@@ -1,2 +1,2 @@
 # rest-api-node-express
-A RESTful API created with Node/Express
+A basic RESTful CRUD API created with Express/Node and with HTTP method calls tested via Postman
